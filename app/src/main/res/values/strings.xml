@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TabsInCompose</string>
+    <string name="following_label">FOLLOWING</string>
+    <string name="for_you_label">FOR YOU</string>
+    <string name="subscribed_label">SUBSCRIBED</string>
+</resources>
